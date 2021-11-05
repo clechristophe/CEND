@@ -12,7 +12,7 @@
 
 
 
-<!-- Sommaire -->
+<!-- Summary -->
 <details open="open">
   <summary><h2 style="display: inline-block">Summary</h2></summary>
   <ol>
@@ -31,7 +31,7 @@
 
 
 
-<!-- Utilisation -->
+<!-- Usage -->
 ## Libraries
 
 Libraries used for this model are listed in the:
@@ -68,7 +68,7 @@ Other variables can be set in the code
 ``size_init``: number of time steps used to initialized the first embedding model.
 
 
-### Arborescence
+### Structure
 
 1. Launch CEND
    ```sh
