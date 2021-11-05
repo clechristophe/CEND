@@ -32,7 +32,7 @@
 
 
 <!-- Utilisation -->
-## Librairies
+## Libraries
 
 Libraries used for this model are listed in the:
 ``
@@ -82,8 +82,7 @@ Other variables can be set in the code
 ├── cend.py # Main script
 ├── data # Data directory
 ├── models # Models directory (.model for SGNS, .npy for SVD)
-├── preprocess.py # Fonctions de nettoyages des données
-├── requirements.txt # Liste des librairies
+├── requirements.txt # Libraries
 ├── scenarios # Simulated data directory
 ├── simulation
 │   └── simulation.py # Script for data simulation
